@@ -1,0 +1,25 @@
+{
+  "name": "structures_map_set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiteGS/structures_map_and_set.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leiteGS/structures_map_and_set/issues"
+  },
+  "homepage": "https://github.com/leiteGS/structures_map_and_set#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
